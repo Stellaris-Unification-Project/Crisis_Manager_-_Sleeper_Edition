@@ -1,1 +1,2 @@
-# Crisis_Manager_-_Sleeper_Edition
+# Crisis_Manager_Sleeper
+Crisis Manager Sleeper Edition
